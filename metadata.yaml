@@ -1,0 +1,34 @@
+_repo: Lorimer-of-the-Northwest_27504
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dewey, Alfred James
+    birthdate: 1874
+    deathdate: 1958
+    gutenberg_agent_id: '32731'
+    url: http://www.gutenberg.org/2009/agents/32731
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bindloss, Harold
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '1256'
+    url: http://www.gutenberg.org/2009/agents/1256
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Edward_Bindloss
+description: ''
+gutenberg_issued: '2008-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27504'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Northwest, Canadian -- Fiction'
+- !lcc 'PR'
+title: Lorimer of the Northwest
+url: http://www.gutenberg.org/ebooks/27504
